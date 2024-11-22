@@ -1,0 +1,13 @@
+
+preprocessing.py是对输入的中文文本进行预处理：去除特殊符号和分词处理
+
+train_similarity.py是用来计算两篇文档的JS散度值
+
+model_qiuyan1.py是用来定义类 主题1
+
+model_qiuyan2.py是用来定义类 主题2
+
+sec1_similarity_expertise.py是用来计算多个问题与多个医生的回答文本间的相似程度，余弦相似性
+
+
+LDA-MPNet中的代码运行基于我创建的虚拟环境 qiuyan3
